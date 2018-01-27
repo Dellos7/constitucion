@@ -47,14 +47,14 @@ En consecuencia, las **Cortes aprueban** y el **pueblo español ratifica** la si
 ## [Título preliminar](título-preliminar.md)
 
 * [Artículo 1](título-preliminar.md#artículo-1): LA SOBERANÍA NACIONAL RESIDE EN EL PUEBLO ESPAÑOL
-* Artículo 2: LA INDISOLUBLE UNIDAD DE LA NACIÓN ESPAÑOLA
-* Artículo 3: DIVERSIDAD LINGÜSTICA ESPAÑOLA
-* Artículo 4: LAS BANDERAS DE ESPAÑA Y DE LAS C. AUT.
-* Artículo 5: LA CAPITAL DEL ESTADO
-* Artículo 6: PARTIDOS POLÍTICOS
-* Artículo 7: SINDICATOS Y ASOCIACIONES EMPRESARIALES
-* Artículo 8: LAS FUERZAS ARMADAS
-* Artículo 9: CIUDADANOS Y PODERES PÚBLICOS ESTÁN SUJETOS A LA CONSTITUCIÓN Y ORDENAMIENTO JURÍDICO
+* [Artículo 2](título-preliminar.md#artículo-2): LA INDISOLUBLE UNIDAD DE LA NACIÓN ESPAÑOLA
+* [Artículo 3](título-preliminar.md#artículo-3): DIVERSIDAD LINGÜSTICA ESPAÑOLA
+* [Artículo 4](título-preliminar.md#artículo-4): LAS BANDERAS DE ESPAÑA Y DE LAS C. AUT.
+* [Artículo 5](título-preliminar.md#artículo-5): LA CAPITAL DEL ESTADO
+* [Artículo 6](título-preliminar.md#artículo-6): PARTIDOS POLÍTICOS
+* [Artículo 7](título-preliminar.md#artículo-7): SINDICATOS Y ASOCIACIONES EMPRESARIALES
+* [Artículo 8](título-preliminar.md#artículo-8): LAS FUERZAS ARMADAS
+* [Artículo 9](título-preliminar.md#artículo-9): CIUDADANOS Y PODERES PÚBLICOS ESTÁN SUJETOS A LA CONSTITUCIÓN Y ORDENAMIENTO JURÍDICO
 
 ## Título I
 > DE LOS DERECHOS Y DEBERES FUNDAMENTALES
