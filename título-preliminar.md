@@ -1,4 +1,8 @@
-# Artículo 1
+# Título Preliminar
+
+Artículos **1-9**
+
+## Artículo 1
 > LA SOBERANÍA NACIONAL RESIDE EN EL PUEBLO ESPAÑOL
 1. `España se constituye` en un **Estado social y democrático de derecho**, 
 que `propugna` como valores superiores de su ordenamiento jurídico la **libertad, la justicia, la igualdad y el pluralismo político**.
@@ -8,7 +12,7 @@ que `propugna` como valores superiores de su ordenamiento jurídico la **liberta
 **<span style="color: red">RECUERDA:</span>**
 > España se constituye, Estado social y democrático, LIJPP, pueblo español, monarquía parlamentaria
 
-# Artículo 2
+## Artículo 2
 > LA INDISOLUBLE UNIDAD DE LA NACIÓN ESPAÑOLA
 
 La `Constitución` se fundamenta en la **indisoluble unidad de la Nación española**, patria **común e indivisible** de todos los españoles, 
