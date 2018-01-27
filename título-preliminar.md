@@ -14,6 +14,7 @@ Artículos **1-9**
 
 ## Artículo 1
 > LA SOBERANÍA NACIONAL RESIDE EN EL PUEBLO ESPAÑOL
+
 1. `España se constituye` en un **Estado social y democrático de derecho**, 
 que `propugna` como valores superiores de su ordenamiento jurídico la **libertad, la justicia, la igualdad y el pluralismo político**.
 2. La **soberanía nacional** reside en el **pueblo español**, del que emanan los **poderes del Estado**.
@@ -43,6 +44,12 @@ y `reconoce y garantiza` el derecho a la **autonomía** de las **nacionalidades 
 
 ## Artículo 4
 > LAS BANDERAS DE ESPAÑA Y DE LAS C. AUT.
+
+1. La bandera de `España` está formada por tres franjas **horizontales**, roja, amarilla y roja, siendo la amarilla de **doble anchura** que cada una de las rojas.
+2. Los `Estatutos` podrán `reconocer` banderas y enseñas propias de las Comunidades Autónomas. Estas se utilizarán **junto a la bandera de España** en sus `edificios públicos` y en sus `actos oficiales`.
+
+**<span style="color: red">RECUERDA:</span>**
+> bandera de España, franjas horizontales, doble anchura, Estatus reconocen, junto a la bandera de España, edificios públicos, actos oficiales
 
 ## Artículo 5
 > LA CAPITAL DEL ESTADO
