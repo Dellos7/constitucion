@@ -56,8 +56,35 @@ En consecuencia, las **Cortes aprueban** y el **pueblo español ratifica** la si
 * [Artículo 8](título-preliminar.md#artículo-8): LAS FUERZAS ARMADAS
 * [Artículo 9](título-preliminar.md#artículo-9): CIUDADANOS Y PODERES PÚBLICOS ESTÁN SUJETOS A LA CONSTITUCIÓN Y ORDENAMIENTO JURÍDICO
 
-## Título I
+## [Título I](título-i.md)
 > DE LOS DERECHOS Y DEBERES FUNDAMENTALES
+
+* [Artículo 10](título-i.md#artículo-10): DERECHOS DE LA PERSONA, DERECHOS Y LIBERTADES RESPALDADOS POR DUDH Y TRATADOS INTERNACIONALES
+* **[Capítulo I](título-i.md#capítulo-i)**: **De los españoles y los extranjeros**
+  * [Artículo 11](título-i.md#artículo-11): NACIONALIDAD
+  * [Artículo 12](título-i.md#artículo-12): MAYORÍA DE EDAD
+  * [Artículo 13](título-i.md#artículo-13): DERECHOS DE LOS EXTRANJEROS
+* **[Capítulo II](título-i.md#capítulo-ii)**: **Derechos y libertades**
+  * [Artículo 14](título-i.md#artículo-14): LOS ESPAÑOLES SON IGUALES ANTE LA LEY
+  * **[Sección 1ª](título-i.md#sección-1ª)**: **De los derechos fundamentales y las libertades públicas**
+    * [Artículo 15](título-i.md#artículo-15): TODOS TIENEN DERECHO A LA VIDA
+    * [Artículo 16](título-i.md#artículo-16): LIBERTAD RELIGIOSA, IDEOLÓGICA Y DE CULTO
+    * [Artículo 17](título-i.md#artículo-17): DERECHO A LA LIBERTAD Y A LA SEGURIDAD
+    * [Artículo 18](título-i.md#artículo-18): DERECHO A LA INTIMIDAD. INVIOLABILIDAD DEL DOMICILIO
+    * [Artículo 19](título-i.md#artículo-19): DERECHO A LA LIBRE CIRCULACIÓN Y RESIDENCIA
+    * [Artículo 20](título-i.md#artículo-20): LIBERTAD DE EXPRESIÓN
+    * [Artículo 21](título-i.md#artículo-21): DERECHO DE REUNIÓN
+    * [Artículo 22](título-i.md#artículo-22): DERECHO DE ASOCIACIÓN
+    * [Artículo 23](título-i.md#artículo-23): DERECHO DE PARTICIPACIÓN EN LOS ASUNTOS PÚBLICOS
+    * [Artículo 24](título-i.md#artículo-24): TUTELA JUDICIAL EFECTIVA
+    * [Artículo 25](título-i.md#artículo-25): PRINCIPIO DE LEGALIDAD. FINES PENITENCIARIOS: REEDUCACIÓN Y REINSERCIÓN SOCIAL
+    * [Artículo 26](título-i.md#artículo-26): SE PROHÍBEN LOS TRIBUNALES DE HONOR
+    * [Artículo 27](título-i.md#artículo-27): DERECHO A LA EDUCACIÓN
+    * [Artículo 28](título-i.md#artículo-28): DERECHO A SINDICARSE LIBREMENTE. DERECHO A LA HUELGA
+    * [Artículo 29](título-i.md#artículo-29): DERECHO DE PETICIÓN
+  * **[Sección 2ª](título-i.md#sección-2ª)**: **De los derechos y deberes de los ciudadanos**
+    * [Artículo 30](título-i.md#artículo-30): DERECHO-DEBER DE DEFENDER A ESPAÑA. SERVICIO MILITAR.
+
 
 ## Título II
 > DE LA CORONA
