@@ -84,7 +84,34 @@ En consecuencia, las **Cortes aprueban** y el **pueblo español ratifica** la si
     * [Artículo 29](título-i.md#artículo-29): DERECHO DE PETICIÓN
   * **[Sección 2ª](título-i.md#sección-2ª)**: **De los derechos y deberes de los ciudadanos**
     * [Artículo 30](título-i.md#artículo-30): DERECHO-DEBER DE DEFENDER A ESPAÑA. SERVICIO MILITAR.
-
+    * [Artículo 31](título-i.md#artículo-31): SISTEMA TRIBUTARIO JUSTO
+    * [Artículo 32](título-i.md#artículo-32): DERECHO AL MATRIMONIO
+    * [Artículo 33](título-i.md#artículo-33): DERECHO A LA PROPIEDAD PRIVADA Y A LA HERENCIA
+    * [Artículo 34](título-i.md#artículo-34): DERECHO DE FUNDACIÓN
+    * [Artículo 35](título-i.md#artículo-35): DERECHO-DEBER DE TRABAJAR
+    * [Artículo 36](título-i.md#artículo-36): COLEGIOS PROFESIONALES
+    * [Artículo 37](título-i.md#artículo-37): NEGOCIACIÓN COLECTIVA: CONVENIOS Y CONFLICTOS LABORALES
+    * [Artículo 38](título-i.md#artículo-38): LIBERTAD DE EMPRESA
+  * **[Sección 3ª](título-i.md#sección-3ª)**: **De los principios rectores de la política social y económica**
+    * [Artículo 39](título-i.md#artículo-39): PROTECCIÓN DE LA FAMILIA
+    * [Artículo 40](título-i.md#artículo-40): PROGRESO SOCIAL Y ECONÓMICO: PLENO EMPLEO
+    * [Artículo 41](título-i.md#artículo-41): LA SEGURIDAD SOCIAL
+    * [Artículo 42](título-i.md#artículo-42): TRABAJADORES ESPAÑOLES EN EL EXTRANJERO
+    * [Artículo 43](título-i.md#artículo-43): DERECHO DE PROTECCIÓN A LA SALUD
+    * [Artículo 44](título-i.md#artículo-44): ACCESO A LA CULTURA Y A LA INVESTIGACIÓN CIENTÍFICA Y TÉCNICA
+    * [Artículo 45](título-i.md#artículo-45): DERECHO A UN MEDIOAMBIENTE ADECUADO
+    * [Artículo 46](título-i.md#artículo-46): PROTEGER EL PATRIMONIO HISTÓRICO, ARTÍSTICO Y CULTURAL DE LOS PUEBLOS
+    * [Artículo 47](título-i.md#artículo-47): DERECHO A UNA VIVIENDA DIGNA Y ADECUADA
+    * [Artículo 48](título-i.md#artículo-48): PARTICIPACIÓN DE LA JUVENTUD
+    * [Artículo 49](título-i.md#artículo-49): PROTECCIÓN A LAS PERSONAS MINUSVÁLIDAS
+    * [Artículo 50](título-i.md#artículo-50): PROTECCIÓN A LA TERCERA EDAD
+    * [Artículo 51](título-i.md#artículo-51): DERECHOS DE LOS USUARIOS Y CONSUMIDORES
+    * [Artículo 52](título-i.md#artículo-52): ORGANIZACIONES PROFESIONALES
+* **[Capítulo IV](título-i.md#capítulo-iv)**: **De las garantas de las libertades y derechos fundamentales**
+  * [Artículo 53](título-i.md#artículo-53): GARANTIZAR LA PROTECCIÓN DE LOS DERECHOS DE LOS CAPÍTULOS I, II Y III
+  * [Artículo 54](título-i.md#artículo-54): EL DEFENSOR DEL PUEBLO. DEFENSA DE LOS DERECHOS DEL TÍTULO I
+* **[Capítulo V](título-i.md#capítulo-v)**: **De la suspensión de los derechos y libertades**
+  * [Artículo 55](título-i.md#artículo-55): POSIBILIDAD DE SUSPENDER LOS DERECHOS Y LIBERTADES
 
 ## Título II
 > DE LA CORONA
