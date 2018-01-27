@@ -1,17 +1,17 @@
 # Constitución Española 1978
 
-La Constitución Española de 1978:
+<span style="text-decoration: underline">La Constitución Española de 1978</span>:
 -  Es una **Ley fundamental**
 - Recoge los **derechos** y **libertades** de los ciudadanos
 - Define la **organización poltica** del estado
 
-Fechas <span style="color: red">importantes</span>:
-- **Aprobada** por las Cortes: **31 de octubre** de 1978
-- Ratificada en el **referéndum**: **6 de diciembre** de 1978
-- **Sancionada** por el Rey: **27 de diciembre** de 1978. El **cumpleaños** de la Constitución.
-- **Publicada** en el BOE: **29 de diciembre** de 1978
+<span style="text-decoration: underline">Fechas importantes</span>:
+- **<span style="color: red">Aprobada</span>** por las Cortes: **31 de octubre** de 1978
+- Ratificada en el **<span style="color: red">referéndum</span>**: **6 de diciembre** de 1978
+- **<span style="color: red">Sancionada</span>** por el Rey: **27 de diciembre** de 1978. El <span style="text-decoration: underline">cumpleaños</span> de la Constitución.
+- **<span style="color: red">Publicada</span>** en el BOE: **29 de diciembre** de 1978
 
-Se compone de:
+<span style="text-decoration: underline">Se compone de</span>:
 * 1 preámbulo
 * 11 títulos:
   * 1 título preliminar
