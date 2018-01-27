@@ -24,6 +24,10 @@
 ## Índice
 
 * [Preámbulo](#preámbulo)
+* [Título Preliminar](#título-preliminar)
+* [Título I: DE LOS DERECHOS Y DEBERES FUNDAMENTALES](#título-i)
+* [Título II: DE LA CORONA](#título-ii)
+* [Título III: DE LAS CORTES GENERALES](#título-iii)
 
 ## Preámbulo
 
@@ -51,3 +55,12 @@ En consecuencia, las **Cortes aprueban** y el **pueblo español ratifica** la si
 * Artículo 7: SINDICATOS Y ASOCIACIONES EMPRESARIALES
 * Artículo 8: LAS FUERZAS ARMADAS
 * Artículo 9: CIUDADANOS Y PODERES PÚBLICOS ESTÁN SUJETOS A LA CONSTITUCIÓN Y ORDENAMIENTO JURÍDICO
+
+## Título I
+> DE LOS DERECHOS Y DEBERES FUNDAMENTALES
+
+## Título II
+> DE LA CORONA
+
+## Título III
+> DE LAS CORTES GENERALES
