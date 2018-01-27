@@ -15,6 +15,8 @@ Artículos **1-9**
 * [Artículo 8](#artículo-8): LAS FUERZAS ARMADAS
 * [Artículo 9](#artículo-9): CIUDADANOS Y PODERES PÚBLICOS ESTÁN SUJETOS A LA CONSTITUCIÓN Y ORDENAMIENTO JURÍDICO
 
+<iframe id='audio_18357841' frameborder='0' allowfullscreen='' scrolling='no' height='200' style='border:1px solid #EEE; box-sizing:border-box; width:100%;' src="https://www.ivoox.com/player_ej_18357841_4_1.html?c1=ff6600"></iframe>
+
 ## Artículo 1
 > LA SOBERANÍA NACIONAL RESIDE EN EL PUEBLO ESPAÑOL
 
