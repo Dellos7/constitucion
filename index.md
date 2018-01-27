@@ -39,3 +39,15 @@ En consecuencia, las **Cortes aprueban** y el **pueblo español ratifica** la si
 
 **<span style="color: red">RECUERDA</span>**: 
 > la Nación española (...) proclama, Estado de Derecho, proteger a los españoles y pueblos de España, progreso de la cultura y de la economía, sociedad democrática avanzada. Las CORTES aprueban, el PUEBLO ESPAÑOL ratifica.
+
+## Título preliminar
+
+* Artículo 1: LA SOBERANÍA NACIONAL RESIDE EN EL PUEBLO ESPAÑOL
+* Artículo 2: LA INDISOLUBLE UNIDAD DE LA NACIÓN ESPAÑOLA
+* Artículo 3: DIVERSIDAD LINGÜSTICA ESPAÑOLA
+* Artículo 4: LAS BANDERAS DE ESPAÑA Y DE LAS C. AUT.
+* Artículo 5: LA CAPITAL DEL ESTADO
+* Artículo 6: PARTIDOS POLÍTICOS
+* Artículo 7: SINDICATOS Y ASOCIACIONES EMPRESARIALES
+* Artículo 8: LAS FUERZAS ARMADAS
+* Artículo 9: CIUDADANOS Y PODERES PÚBLICOS ESTÁN SUJETOS A LA CONSTITUCIÓN Y ORDENAMIENTO JURÍDICO
