@@ -36,3 +36,6 @@ La **Nación española**, deseando establecer la **justicia, la libertad y la se
 * `Establecer` una **sociedad democrática avanzada**, y `colaborar en el fortalecimiento` de unas relaciones pacíficas y de eficaz cooperación entre todos los **pueblos de la Tierra**.
 
 En consecuencia, las **Cortes aprueban** y el **pueblo español ratifica** la siguiente CONSTITUCIÓN.
+
+**<span style="color: red">RECUERDA</span>**: 
+> la Nación española (...) proclama, Estado de Derecho, proteger a los españoles y pueblos de España, progreso de la cultura y de la economía, sociedad democrática avanzada. Las CORTES aprueban, el PUEBLO ESPAÑOL ratifica.
