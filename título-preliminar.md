@@ -34,6 +34,13 @@ y `reconoce y garantiza` el derecho a la **autonomía** de las **nacionalidades 
 ## Artículo 3
 > DIVERSIDAD LINGÜISTICA ESPAÑOLA
 
+1. El **castellano** es la lengua española oficial del `Estado`. Todos los **españoles** tienen el **deber** de conocerla y el **derecho** a usarla.
+2. Las demás lenguas españolas serán también **oficiales** en las `respectivas Comunidades Autónomas` de acuerdo con sus **estatutos**.
+3. La riqueza de las distintas **modalidades lingüísticas** de España es un `patrimonio cultural` que será objeto de especial `respeto y protección`.
+
+**<span style="color: red">RECUERDA:</span>**
+> castellano lengua oficial del Estado, oficiales en C. AUT., estatutos, patrimonio cultural, respeto y protección
+
 ## Artículo 4
 > LAS BANDERAS DE ESPAÑA Y DE LAS C. AUT.
 
